@@ -61,6 +61,7 @@ public class MainActivity extends AppCompatActivity {
                 SimpleDateFormat df = new SimpleDateFormat("dd-MMM-yyyy", Locale.getDefault());
                 String formattedDate = df.format(c);
 
+
                 Toast.makeText(MainActivity.this, "Data Saved" + formattedDate, Toast.LENGTH_LONG).show();
                 //Create HashMap contains user details
                 HashMap<String, String> user = new HashMap<>();
