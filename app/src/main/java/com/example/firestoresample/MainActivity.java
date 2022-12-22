@@ -24,7 +24,7 @@ import java.util.Locale;
 import java.util.Objects;
 
 public class MainActivity extends AppCompatActivity {
-    //1st dummy commit
+    //2nd dummy commit
 
     //Firebase Firestore product shared instance global variable
     FirebaseFirestore firebaseFirestore;
