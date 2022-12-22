@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
         loginButton = findViewById(R.id.login_buton);
         tag = "MainActivity.java";
         //as;lfsd
+        //2nd commit
 
         //It hide the ActionBar and status bar from MainActivity layout window
         Objects.requireNonNull(getSupportActionBar()).hide();
